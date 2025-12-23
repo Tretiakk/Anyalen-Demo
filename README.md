@@ -1,5 +1,5 @@
 # Anyalen
-###### Agency MVP
+###### Commercial Project | Full-cycle Development
 
 **Project Overview:** A landing page for a mobile development agency (iOS & Android) showcasing service portfolios, client testimonials, and business contact points.
 
