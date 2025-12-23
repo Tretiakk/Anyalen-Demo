@@ -1,12 +1,13 @@
 # Anyalen
+###### Agency MVP
 
-**Advanced Web Motion:** Implements complex UI animations using GSAP and Lenis for high-end inertial scrolling and fluid transitions.
+**Project Overview:** A landing page for a mobile development agency (iOS & Android) showcasing service portfolios, client testimonials, and business contact points.
 
-**Frontend Architecture:** Developed with Vite and JavaScript, featuring integrated EmblaCarousel for interactive content presentation.
+**Visual Motion:** Leverages GSAP and Lenis to provide inertial scrolling and interface animations.
 
-**CI/CD Pipeline:** Automated deployment workflow via GitHub and Netlify, ensuring instant production updates and optimized hosting.
+**Core Architecture:** Built with JavaScript and Vite, utilizing EmblaCarousel for interactive content delivery.
 
-**Project Showcase:** Designed as a professional landing page to centralize and feature a portfolio of Android applications.
+**CI/CD Pipeline:** Automated deployment via GitHub and Netlify for instant production updates and hosting.
 
 **Tech Stack** <br>
 JavaScript, HTML, CSS, GSAP, EmblaCarousel, Lenis, Vite, Netlify.
